@@ -2,7 +2,7 @@
 
 Install
 
-    npm install sensor-client
+    npm install raimohanska/sensor-client
 
 Use
 

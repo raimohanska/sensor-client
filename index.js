@@ -10,7 +10,7 @@ function Client(uri) {
       };
 
       return request(options)
-        .then(function(body) { console.log(body) })
+        .then(function(body) {  })
         .catch(function(error) { console.log("ERROR", error.message) })
     }
   }
